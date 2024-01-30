@@ -56,16 +56,16 @@
     }
   },
   "dependencies": {
-    "vue": "^2.5.16",
-    "axios": "^0.21.3",
+    "vue": "^2.7.14",
+    "axios": "^1.6.4",
     "vue-electron": "^1.0.6",
-    "vue-router": "^3.0.1",
-    "vuex": "^3.6.2"
+    "vue-router": "^3.6.5",
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "ajv": "^6.12.3",
     "babel-core": "^6.26.3",
-    "babel-eslint": "^8.2.3",
+    "babel-eslint": "^10.1.0",
     "babel-loader": "^7.1.4",
     "babel-plugin-istanbul": "^6.1.1",
     "babel-plugin-transform-runtime": "^6.23.0",
@@ -81,7 +81,7 @@
     "css-loader": "^6.7.2",
     "del": "^3.0.0",
     "devtron": "^1.4.0",
-    "electron": "^22.3.21",
+    "electron": "^22.3.25",
     "electron-builder": "^24.3.0",
     "electron-debug": "^1.5.0",
     "electron-devtools-installer": "^2.2.4",
@@ -114,7 +114,7 @@
     "style-loader": "^0.21.0",
     "url-loader": "^1.0.1",
     "vue-html-loader": "^1.2.4",
-    "vue-loader": "^15.2.4",
+    "vue-loader": "^17.2.2",
     "vue-style-loader": "^4.1.0",
     "vue-template-compiler": "^2.5.16",
     "webpack": "^4.15.1",
